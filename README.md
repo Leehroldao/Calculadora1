@@ -1,2 +1,2 @@
-# Calculadora1
- Calculadora em Python
+# Minha calculadora
+ Calculadora em Python para calculos simples.
